@@ -1,0 +1,5 @@
+{
+  "name": "Supabase Click Counter",
+  "description": "A simple and visually appealing web application that counts user clicks and persists the data using a Supabase backend. The app features a real-time counter, loading and error states, and a sleek dark-themed UI built with Tailwind CSS.",
+  "requestFramePermissions": []
+}
